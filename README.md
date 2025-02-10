@@ -1,4 +1,4 @@
-# SVM
+# AI Models
 
 SVM model & RANDOM FOREST CLASSIFIER for Breast Cancer Wisconsin (Diagnostic) Data set
 
